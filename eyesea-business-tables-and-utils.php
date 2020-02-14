@@ -13,12 +13,6 @@ include_once( plugin_dir_path( __FILE__ ) . 'server-includes/ess_custom_post_typ
 include_once( plugin_dir_path( __FILE__ ) . 'server-includes/ess_classes.php' );
 include_once( plugin_dir_path( __FILE__ ) . 'server-includes/ess_rest.php' );
 include_once( plugin_dir_path( __FILE__ ) . 'server-includes/ess_fixes.php' );
-include_once( plugin_dir_path( __FILE__ ) . 'server-includes/ess_components.php' );
-
-// require_once(get_template_directory() . '/server-includes/ess_custom_post_types.php');
-// require_once(get_template_directory() . '/server-includes/ess_classes.php');
-// require_once(get_template_directory() . '/server-includes/ess_rest.php');
-// require_once(get_template_directory() . '/server-includes/ess_fixes.php');
-// require_once(get_template_directory() . '/server-includes/ess_components.php');
+// include_once( plugin_dir_path( __FILE__ ) . 'server-includes/ess_components.php' );
 
 ?>
